@@ -1,9 +1,30 @@
-<mxfile host="app.diagrams.net" modified="2023-04-02T00:47:53.812Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="21.1.2" etag="Sj0reiRb32ZmcXpyJQwr" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-02T00:57:49.182Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="MZkS65gUC1hN8J8lLyCX" version="21.1.2" type="github">
   <diagram name="第 1 页" id="qoFWoqQQtf8SlPOWqUR3">
-    <mxGraphModel>
+    <mxGraphModel dx="1331" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="KE6Zw9q1b7qpx3u-HzaN-1" value="平台" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="350" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KE6Zw9q1b7qpx3u-HzaN-3" value="商家" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="300" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KE6Zw9q1b7qpx3u-HzaN-4" value="用户" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="430" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KE6Zw9q1b7qpx3u-HzaN-7" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="100" y="350" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KE6Zw9q1b7qpx3u-HzaN-2" value="众包" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="KE6Zw9q1b7qpx3u-HzaN-7">
+          <mxGeometry width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KE6Zw9q1b7qpx3u-HzaN-5" value="达达/顺丰平台配送" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="KE6Zw9q1b7qpx3u-HzaN-7">
+          <mxGeometry x="100" width="60" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KE6Zw9q1b7qpx3u-HzaN-6" value="专送合作商" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="KE6Zw9q1b7qpx3u-HzaN-7">
+          <mxGeometry y="40" width="80" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
